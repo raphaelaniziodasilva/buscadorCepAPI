@@ -1,0 +1,10 @@
+Vamos consumir uma API publica para poder buscar um dado, tratar, receber na aplicaçao e conerter em outras coisas
+
+Vamos criar uma aplicaçao em java para um buscador de cep
+vamos consumir uma api chamada ViaCepApi:
+
+O que vamos fazer:
+1 - criar uma aplicaçao para consultar a Api ViaCep
+2 - menu para o usuário informar o cep para busca
+3 - geraçao de um arquivo .json com os dados do endereço
+link da ViaCepApi = https://viacep.com.br/
